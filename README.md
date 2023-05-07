@@ -1,8 +1,6 @@
-![image](https://user-images.githubusercontent.com/102452883/178032494-111e068d-9ae8-4c90-9188-0abd1de4e9f2.png)
-![image](https://user-images.githubusercontent.com/102452883/178032832-8a795846-a000-40a1-bd3e-ec95f98bc38c.png)
 # Phone Book App
 An phone book that store contact numbers for specific members
-> Several people can log in to add contact numbers
+
 # How to deploy a simple Plotly Dash app on Heroku
 
 * You can view the finished app on [Heroku](https://flying-dog.herokuapp.com/).
